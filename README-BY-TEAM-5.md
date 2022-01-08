@@ -20,7 +20,13 @@ team-5では、掲示板を作ることを目指しています。現在ToDoリ�
 ## 担当
 
 Takeru Ito:ファイルの統合、検索機能
+
+
 Sho Yamamoto: 投稿欄、入力欄
+
+
 Joe Hirabayashi: 全部分のCSS
+
+
 Soichiro: 投稿欄
 
