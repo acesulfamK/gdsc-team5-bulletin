@@ -1,0 +1,35 @@
+input {
+  font-size: 20px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  height: 30px;
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+  border:1px solid #dee7ec;
+  background-color: #fff;
+}
+
+
+textarea {
+  height: 80px;
+  width: 210px;
+  font-size: 16px;
+  margin:10px;
+  padding:5px;
+}
+
+.sendButton{
+  border:1px solid #dee7ec;
+  background-color: #fff;
+  border-radius: 5px;
+  font-size: 15px;
+  width:60px;
+
+}
+
+.sendButton:hover{
+  background-color: #c8cfcc;
+  transition: 0.3s;
+}
+
+
